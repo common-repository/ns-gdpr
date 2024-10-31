@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-02-27 11:38+0100\n"
+"PO-Revision-Date: 2019-02-27 11:38+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments/ns-gdpr-comments.php:36
+msgid "<strong>ERROR</strong>: "
+msgstr "<strong>ERROR</strong>: "
+
+#: ns-admin-options/ns_admin_option_dashboard.php:33
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:8
+msgid "JOIN NS CLUB"
+msgstr "JOIN NS CLUB"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:12
+msgid "– Instant access to all plugins and all themes"
+msgstr "– Instant access to all plugins and all themes"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:13
+msgid "– All future plugins and themes are included"
+msgstr "– All future plugins and themes are included"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:14
+msgid "– Unlimited license for all NS products"
+msgstr "– Unlimited license for all NS products"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:15
+msgid "– Unlimited download for each products"
+msgstr "– Unlimited download for each products"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:16
+msgid "– Super fast support"
+msgstr "– Super fast support"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:17
+msgid "– Regular update"
+msgstr "– Regular update"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:20
+msgid "DISCOVER MORE"
+msgstr "DISCOVER MORE"
+
+#: ns-admin-options/ns_settings_custom.php:27
+msgid "Comments in WordPress"
+msgstr "Comments in WordPress"
+
+#: ns-admin-options/ns_settings_custom.php:28
+msgid "Enable this to add GDPR checkbox in WordPress comments"
+msgstr "Enable this to add GDPR checkbox in WordPress comments"
+
+#: ns-admin-options/ns_settings_custom.php:30
+#: ns-admin-options/ns_settings_custom.php:61
+#: ns-admin-options/ns_settings_custom.php:93
+msgid "Checkbox text"
+msgstr "Checkbox text"
+
+#: ns-admin-options/ns_settings_custom.php:31
+#: ns-admin-options/ns_settings_custom.php:62
+#: ns-admin-options/ns_settings_custom.php:94
+msgid "Error text"
+msgstr "Error text"
+
+#: ns-admin-options/ns_settings_custom.php:58
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: ns-admin-options/ns_settings_custom.php:59
+msgid "Enable this to add at all CF7 form GDPR checkbox "
+msgstr "Enable this to add at all CF7 form GDPR checkbox "
+
+#: ns-admin-options/ns_settings_custom.php:90
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: ns-admin-options/ns_settings_custom.php:91
+msgid "Enable this to add GDPR checkbox in WooCommerce checkout"
+msgstr "Enable this to add GDPR checkbox in WooCommerce checkout"
+
+#: ns-gdpr.php:33
+msgid "Join NS Club"
+msgstr "Join NS Club"
